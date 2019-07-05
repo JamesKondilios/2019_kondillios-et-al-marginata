@@ -6,4 +6,5 @@ dependencies:
   - panflute
   - cairosvg
   - pandoc
+  - pandoc-crossref
   - texlive-core
