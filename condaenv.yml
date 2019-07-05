@@ -1,0 +1,9 @@
+name: papermaker
+channels:
+  - conda-forge
+dependencies:
+  - python=3.*
+  - panflute
+  - cariosvg
+  - pandoc
+  - texlive-core
