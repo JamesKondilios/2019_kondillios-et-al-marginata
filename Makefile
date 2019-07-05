@@ -5,3 +5,5 @@ all: methods.pdf methods.html
 	pandoc -o $@ $< --standalone
 %.pdf: %.md
 	pandoc -o $@ $< --standalone
+%.tex: %.md
+	pandoc -o $@ $<
