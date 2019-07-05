@@ -1,0 +1,17 @@
+---
+geometry:
+  - "margin=1in"
+header-includes:
+    - '\usepackage[utf8]{inputenc}'
+    - '\usepackage{setspace}'
+    - '\usepackage[margin=6mm]{caption}'
+    - '\captionsetup{labelfont={bf,stretch=1}, font={stretch=1}}'
+    - '\usepackage[garamond]{mathdesign}'
+    - '\usepackage[T1]{fontenc}'
+    - '\linespread{1.4}'
+figureTemplate: '**$$figureTitle$$ $$i$$$$titleDelim$$ **$$t$$'
+figPrefix: "Figure"
+tblPrefix: "Table"
+eqnPrefix: "Equation"
+linkReferences: true
+---
