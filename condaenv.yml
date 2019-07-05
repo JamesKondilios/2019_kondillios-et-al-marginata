@@ -4,6 +4,6 @@ channels:
 dependencies:
   - python=3.*
   - panflute
-  - cariosvg
+  - cairosvg
   - pandoc
   - texlive-core
