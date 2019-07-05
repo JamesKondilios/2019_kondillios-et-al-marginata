@@ -1,0 +1,47 @@
+\documentclass[fleqn,12pt]{wlscirep}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\usepackage{amsthm}
+\usepackage{blkarray}
+\usepackage{amsmath}
+
+% \RequirePackage[numbers]{natbib}
+\RequirePackage[superscript,biblabel,nomove]{cite}
+%% Nov 3, 2016: Support DOI
+\bibliographystyle{naturemag-doi}
+
+\bibliography{emarg_bib}
+
+\setlength{\parskip}{4pt}  % how much space between paragraphs
+\setlength{\parindent}{0pt} % don't indent first sentence of paras
+
+\title{Quantifying the existence and potential impact of non-stationary processes on genetic divergence}
+
+\author[1]{James Kondilios}
+
+\begin{abstract}
+Until now, the conclusions drawn from genetic divergence data have assumed that mutagenic processes do not change in time. Mutations in DNA underpin genetic divergence between species on a lineage. The process of DNA mutation is complex, differs greatly between species, and itself is subject to the forces of evolution. Changes in the mutation process can be modelled as non-stationary, time-continuous Markov processes. Distance to equilibrium will decrease the longer a process runs. Here, we present two novel metrics, $t_{50}$ and $flow$, for measuring proximity to equilibrium. We applied these measurements to biological data sets known to differ in the rate of evolution. When applied to mouse genomic sequences that differed in their mutation rate, both metrics reflected the difference in rate, consistent with theoretical expectations. We know, however, that $t_{50}$ was more prone to exhibiting outliers.  Additional work to explore the basis for these outliers should examine the numerical properties of the algorithms used to compute $t_{50}$. 
+
+
+\end{abstract}
+
+\begin{document}
+
+
+\maketitle
+
+\thispagestyle{empty}
+
+%\include{Introduction}
+
+%\include{Results}
+
+%\include{Discussion}
+
+\include{Methods}
+
+
+
+\end{document}
