@@ -17,9 +17,13 @@ Methods {#methods .unnumbered}
 
 -   A species occurrence polygon of the *E. marginata* native species range was then produced in R using the *ahull* and *ashape* functions (Fig 1C; [@Pateiro-Lopez2010]). This polygon was created for the later purpose of projecting our GDM onto.
 
--   We collected 284 E. marginata leaf samples from mature trees falling along 5 geographical transects (Fig 1A) within the native species range. We did not perform a power analysis to determine sample size during the design of this study.
+- We collected 284 E. marginata leaf samples from mature trees falling along 5 geographical transects (Fig 1A) within the native species range. We did not perform a power analysis to determine sample size during the design of this study.
 
-![Figure 1: Sampling and species distribution of Eucalyptus marginata across Western Australia. **A**, Sample distribution of Eucalyptus marginata across southern region of Western Australia (n=284). Sampling transects labelled T1 to T5. **B**, Natural species distribution of Eucalyptus marginata across Western Australia; Atlas of Living Australia (cite ala). **C**, Distribution polygon of the Eucalyptus marginata distribution illustrated in B. **D**, overlay of the E. marginata sample distribution (orange), E. marginata natural species distribution (navy), and E. marginata species distribution polygon (pink).](figures/E_marg_sample_dist.png){#Fig 1 width=100%}
+
+
+![Figure 1: Sampling and species distribution of Eucalyptus marginata across Western Australia. **A**, Sample distribution of Eucalyptus marginata across southern region of Western Australia (n=284). Sampling transects labelled T1 to T5. **B**, Natural species distribution of Eucalyptus marginata across Western Australia; Atlas of Living Australia (cite ala). **C**, Distribution polygon of the Eucalyptus marginata distribution illustrated in B. **D**, overlay of the E. marginata sample distribution (orange), E. marginata natural species distribution (navy), and E. marginata species distribution polygon (pink).](figures/E_marg_sample_dist.png){#Fig1 width=100%}
+
+
 
 **Genotyping by sequencing:**
 
@@ -54,11 +58,11 @@ Genomic Analysis
 
 **Exploratory analysis**
 
--   We imported a genotype matrix csv file into a sample-by-SNP matrix (x samples by y snps). This was conducted using the 'df2genind' function from the adegenet library[@Jombart2011].
+-   We imported a genotype matrix csv file into a sample-by-SNP matrix (x samples by y snps). This was conducted using the `df2genind` function from the adegenet library[@Jombart2011].
 
--   The resulting genotype matrix was then used to calculate a sample-by-sample, pairwise Euclidean distance matrix using the 'dist' function [@TeamRDevelopmentCore2011]
+-   The resulting genotype matrix was then used to calculate a sample-by-sample, pairwise Euclidean distance matrix using the `dist` function [@TeamRDevelopmentCore2011]
 
--   To reduce the dimensionality of this matrix and summarise general patterns between pairwise genetic distance of samples, we performed a principle coordinates analysis using the 'cmdscale' function from the *stats* library [@TeamRDevelopmentCore2011]. The maximum number of dimensions of the space representing data was set to 9 (k = 9).
+-   To reduce the dimensionality of this matrix and summarise general patterns between pairwise genetic distance of samples, we performed a principle coordinates analysis using the `cmdscale` function from the *stats* library [@TeamRDevelopmentCore2011]. The maximum number of dimensions of the space representing data was set to 9 (k = 9).
 
 -   Principle coordinates 1 and 2 for each sample were then added as columns to a data frame object containing accession metadata and 22 bio-climatic measurements at the locations of each sampled individual. Relationships between principle coordinates 1 and 2 of the genetic distance matrix, geographic location, and bio-climatic variables were then visualised and examined using the ggplot2 graphics library [@Wickham2016].
 
@@ -84,9 +88,9 @@ Genomic Analysis
 
 **Projecting GDM:**
 
--   To project our GDM onto the spatial plane defined previously by our species distribution polygon, we transformed the environmental rasters which were selected in our final model, and transformed them according to the model splines of the GDM using gdm.transorm (GDM v ; [@Ferrier2007]).
+-   To project our GDM onto the spatial plane defined previously by our species distribution polygon, we transformed the environmental rasters which were selected in our final model, and transformed them according to the model splines of the GDM using `gdm.transorm` (GDM v ; [@Ferrier2007]).
 
--   We then performed a principal component analysis of these transformed layers and predicted the principle components across space using the *prcomp* and *predict* functions [@TeamRDevelopmentCore2011].  
+-   We then performed a principal component analysis of these transformed layers and predicted the principle components across space using the `prcomp` and `predict` functions [@TeamRDevelopmentCore2011].  
 
 -   We then visualised the first 3 principle components by assigning each principle component an red-green-blue colour scale [@Rstoolbox].
 

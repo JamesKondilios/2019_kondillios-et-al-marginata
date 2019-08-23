@@ -12,9 +12,10 @@ LATEXOPTS = -V fontsize=12pt -V geometry="margin=1in"
 
 DATADEPS = $(shell find figures/ .resources/ -not -name \*.html -type f -not -path .resources/tmp) $(BIBFILE)
 
+htmls: $(HTMLS)
+pdfs: $(PDFS)
 all: $(HTMLS) $(PDFS)
 
-pdfs: $(PDFS)
 
 clean:
 	rm -f $(HTMLS) $(PDFS)
