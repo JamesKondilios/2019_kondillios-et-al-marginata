@@ -62,11 +62,11 @@ Generalised dissimilarity modelling (GDM; ferrier et al) is a modelling framewor
 
 ####Aims:
 
-·      **Characterise population structure, isolation by distance, and isolation by environment across geographic and bioclimatic gradients**
+· **Characterise population structure, isolation by distance, and isolation by environment across geographic and bioclimatic gradients**
 
-·      **Identify geographic regions of genomic variance that are3 likely to be suited for a future climate within the natural species distribution region**
+· **Identify geographic regions of genomic variance that are likely to be suited for a future climate within the natural species distribution region**
 
-·      **Provide a site specific empirical model for seed sourcing from variants whom which we predict to be pre-adapted to future climates**
+· **Provide a site specific empirical model for seed sourcing from variants whom which we predict to be pre-adapted to future climates**
 
  
 
