@@ -1,20 +1,24 @@
 #Introduction:
 
-####Eucalyptus marginata
+**Biogeography of southern WA**
 
+The south-western region of Western Australia is an extremely rich pocket of biodiversity within the Australian biosphere, accounting for at least 1.4% of world plant species. This region is home to 5 of Australia’s 15 national biodiversity hotspots (1) , making it the subject of great scientific and botanic interest since the late 1800’s. In this time frame, the region has lost nearly 90% of its primary vegetation (2), and remains significantly threatened by the effects of climate change. 
 
+1. ([www.environment.gov.au/biodiversity/hotspots/national-hotspots.html](http://www.environment.gov.au/biodiversity/hotspots/national-hotspots.html))
 
-####Biogeography of southern WA (diversity hotspot)
+2. Myers,N.,Mittermeier,R.A.,Mittermeier,C.G.,da  Fonseca,G.A.B.&Kent,  J.  (2000).  Biodiversity  hotspots  for       conservation  priorities.Nature403,853 – 858
 
-The south-western region of Western Australia is an extremely rich pocket of biodiversity within the Australian biosphere, accounting for at least 1.4% of world plant species. This region is home to 5 of Australia’s 15 national biodiversity hotspots  ([www.environment.gov.au/biodiversity/hotspots/national-hotspots.html](http://www.environment.gov.au/biodiversity/hotspots/national-hotspots.html)) , making it the subject of great scientific and botanic interest since the late 1800’s. 
+3. [**https://doi.org/10.1111/brv.12132**](https://doi.org/10.1111/brv.12132) (main source)
 
-In this time frame, the region has lost nearly 90% of its primary vegetation (^), and remains significantly threatened by the effects of climate change. 
+   
 
- ^  Myers,N.,Mittermeier,R.A.,Mittermeier,C.G.,da  Fonseca,G.A.B.&Kent,  J.  (2000).  Biodiversity  hotspots  for       conservation  priorities.Nature403,853 – 858 #
+**Eucalyptus marginata**:
 
-[**https://doi.org/10.1111/brv.12132**](https://doi.org/10.1111/brv.12132) (main source)
+Eucalyptus *marginata* 
 
- **Foundation tree, threatened by changing climate in south WA.** 
+Foundation tree, threatened by changing climate in south WA.
+
+Eucalyptus
 
 Low structural resistance and resilience to climate change-type drought( combination of drought and heatwave). https://www.researchgate.net/publication/293800610_Eucalyptus_forest_shows_low_structural_resistance_and_resilience_to_climate_change-type_drought
 

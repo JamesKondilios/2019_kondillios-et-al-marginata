@@ -33,17 +33,15 @@ We projected the GDM model on to the current environmental landscape using curre
 
 # rasters of genomic distance now & future
 
+![image-20190827163327320](/Users/jameskonda/Library/Application Support/typora-user-images/image-20190827163327320.png)
 
 
-- RGB map thing per supple et al
 
-- raster of current - futre genetic dissimilarity
-
-  
-
-# pretend restoration experiment
+![image-20190827163352283](/Users/jameskonda/Library/Application Support/typora-user-images/image-20190827163352283.png)
 
 
+
+# Pretend restoration experiment
 
 take a point. calculate radius around it that would be good for seed sourcing. see Bragg/Rosetto's Restore & Renew paper & website
 
