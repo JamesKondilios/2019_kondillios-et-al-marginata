@@ -40,6 +40,10 @@ https://www.frontiersin.org/articles/10.3389/fevo.2015.00065/full#h3
 
 By understanding how the genetic composition of a population differs with its respective environmental gradients such as annual rainfall or temperature, we can associate an individuals genomic composition with adaptation to an interval on that gradient. With this understanding, we can also examine patterns of isolation by distance (IBD), and isolation by environment (IBE). IBD describes the functional-for[[MOU1\]](#_msocom_1) m (strong linear, non-linear, exponential etc.) of the relationship between genomic distance and geographic distance between individuals of a population. Likewise IBE describes the functional-form of the relationship between genomic distance and environmental distance while controlling for geographic distance.
 
+
+
+ibe paper by bradberg. describes it all as patterns.  IBE is the results of processes and shit. and untestable - however the pattern is detectable. - kevins paper includes this. 
+
  
 
 ####Generalised dissimilarity modelling (GDM):

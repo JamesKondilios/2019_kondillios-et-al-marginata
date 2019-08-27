@@ -21,7 +21,7 @@ Genotyping by sequencing
 
 **Generalised dissimilarity model** 
 
-- From the original $N$ envirobmental variables, 5 were selected to be included into the final model.
+- From the original $N$ environmental variables, 5 were selected to be included into the final model.
 
   Permutation testing was conducted on all variables able to individually explain $>5$% of model deviance. Permutation testing revealed that the optimal model included 5 variables, and that including any more would result in diminishing returns for deviance explained. 
 
@@ -40,3 +40,24 @@ Genotyping by sequencing
 
 
 ![tidy_gdm_splines](/Users/jameskonda/Desktop/Landscape_Genomics/E_marginata_Papers/kondillios_et_al/figures/tidy_gdm_splines.png)
+
+
+
+# rasters of genomic distance now & future
+
+
+
+- RGB map thing per supple et al
+
+- raster of current - futre genetic dissimilarity
+
+  
+
+# pretend restoration experiment
+
+
+
+take a point. calculate radius around it that would be good for seed sourcing. see Bragg/Rosetto's Restore & Renew paper & website
+
+
+
