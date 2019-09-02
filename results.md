@@ -9,7 +9,7 @@ Genotyping by sequencing
 
 - Quality control - removing snps, missing data etc. 
 
-We performed a series of principle coordinate analysis on the SNP matrix, analysing the relationships between principle coordinates 1 and 2, geographic location, and bio-climatic variables 1-19. The first two principle coordinates were able to explain $2.6\%$ of total variance ($1.7\%$, and $0.9\%$ respectively). We found a positive curvilinear relationship between PCoA1 and Latitude. Furthermore, PCoA1 and PCoA2 generally differed by bio-climatic variables associated with temperature and seasonality. 
+We performed a series of principle coordinate analysis on the SNP matrix, visually analysing the relationships between principle coordinates 1 and 2, geographic location, and bio-climatic variables 1-19. The first two principle coordinates were able to explain $2.6\%$ of total variance ($1.7\%$, and $0.9\%$ respectively). We found a positive curvilinear relationship between PCoA1 and Latitude. Furthermore, PCoA1 and PCoA2 generally differed by bio-climatic variables associated with temperature and seasonality. 
 
 ![PCAPLOT](/Users/jameskonda/Desktop/Landscape_Genomics/E_marginata_Papers/kondillios_et_al/figures/PCAPLOT.png)
 

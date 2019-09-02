@@ -14,11 +14,7 @@ The south-western region of Western Australia is an extremely rich pocket of bio
 
 **Eucalyptus marginata**:
 
-Eucalyptus *marginata* 
-
-Foundation tree, threatened by changing climate in south WA.
-
-Eucalyptus
+Eucalyptus *marginata* is a foundational species endemic to this region. It possesses low low structural resistance and resilience to climate change-type drought, and as such is threatened by changing climate (. 
 
 Low structural resistance and resilience to climate change-type drought( combination of drought and heatwave). https://www.researchgate.net/publication/293800610_Eucalyptus_forest_shows_low_structural_resistance_and_resilience_to_climate_change-type_drought
 
