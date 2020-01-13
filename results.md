@@ -11,9 +11,9 @@ Genotyping by sequencing
 
 We performed a series of principle coordinate analysis on the SNP matrix, visually analysing the relationships between principle coordinates 1 and 2, geographic location, and bio-climatic variables 1-19. The first two principle coordinates were able to explain $2.6\%$ of total variance ($1.7\%$, and $0.9\%$ respectively). We found a positive curvilinear relationship between PCoA1 and Latitude. Furthermore, PCoA1 and PCoA2 generally differed by bio-climatic variables associated with temperature and seasonality. 
 
-![PCAPLOT](/Users/jameskonda/Desktop/Landscape_Genomics/E_marginata_Papers/kondillios_et_al/figures/PCAPLOT.png)
+![PCAPLOT](figures/PCAPLOT.png)
 
-![PCAvsLat](/Users/jameskonda/Desktop/Landscape_Genomics/E_marginata_Papers/kondillios_et_al/figures/PCAvsLat.png)
+![PCAvsLat](figures/PCAvsLat.png)
 
 **Generalised dissimilarity model** 
 
@@ -27,23 +27,22 @@ We projected the GDM model on to the current environmental landscape using curre
 
 
 
-![tidy_gdm_splines](/Users/jameskonda/Desktop/Landscape_Genomics/E_marginata_Papers/kondillios_et_al/figures/tidy_gdm_splines.png)
+![tidy_gdm_splines](figures/tidy_gdm_splines.png)
 
 
 
 # rasters of genomic distance now & future
 
-![image-20190827163327320](/Users/jameskonda/Library/Application Support/typora-user-images/image-20190827163327320.png)
+![image-20190827163327320](figures/image-20190827163327320.png)
 
 
 
-![image-20190827163352283](/Users/jameskonda/Library/Application Support/typora-user-images/image-20190827163352283.png)
+![image-20190827163352283](figures/image-20190827163352283.png)
 
 
 
 # Pretend restoration experiment
 
 take a point. calculate radius around it that would be good for seed sourcing. see Bragg/Rosetto's Restore & Renew paper & website
-
 
 
